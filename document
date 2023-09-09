@@ -1,0 +1,36 @@
+< ================== component sensor =============== >  
+1. ESP32 
+2. cabel
+3. Servo
+4. LDR sensor 
+5. Raindrop sensor + module 
+6. bread board 
+7. powerbank 
+
+< ================== pin ============================ >
+-- Rain sensor 
+VCC pin -> 5v 
+GNG pin -> GND 
+DO (digital output) -> pin 35 
+AO (analog output) -> pin 33 
+
+-- Light sensor 
+VCC pin -> 5v 
+GNG pin -> GND 
+DO (digital output) -> pin 25 
+
+-- Servo 
+VCC pin -> 5v 
+GNG pin -> GND 
+DO (digital output) -> pin 13 
+
+< =================== credits ======================== >
+ref :
+Katyal, A., Yadav, R., & Pandey, M. (2016). Wireless Arduino Based Weather Station. International Journal of Advanced Research in Computer and Communication Engineering, 5(4).
+Nofgi. (2020) Membuat Miniatur Jemuran Otomatis Menggunakan Arduino, Sensor Hujan, Sensor Cahaya, dan Servo
+MUHAMAD YUSVIN MUSTAR, RAMA OKTA WIYAGI (2017). Implementasi Sistem Monitoring Deteksi Hujan dan Suhu Berbasis Sensor
+Secara Real Time
+
+< =================== youtube ========================= >
+https://youtu.be/dhBxtL-0yoI
+
